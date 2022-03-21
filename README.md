@@ -104,10 +104,34 @@ B.  Create a database using the attached "Jaunty Coffee Co. ERD" by doing the fo
 
     b.  Demonstrate that you tested your code by providing a screenshot showing your SQL commands and the database server’s response.
 
- 
 
 C.  Submit parts A and B as a PDF, with each part clearly labeled.
 
- 
 
 D.  Demonstrate professional communication in the content and presentation of your submission.
+
+## Overall Course Competencies:
+
+#### Conceptual Models to Physical Schemas
+
+* The graduate creates conceptual data models and translates them into physical schemas.
+
+#### Populate Tables
+
+* The graduate populates tables with insert, update, and delete using DML in MySQL environment.
+
+#### Create Databases
+
+* The graduate creates databases utilizing SQL Data Definition Language (DDL) in MySQL environment.
+
+#### Create/Modify Tables and Views
+
+* The graduate writes code to create and modify tables and views employing SQL Data Definition Language (DDL) in MySQL environment.
+
+#### Create Primary Keys/Foreign Keys and Indexes
+
+* The graduate writes code to create and modify Primary Keys (PKs) and Foreign Keys (FKs) and Indexes with SQL Data Definition Language (DDL) in MySQL environment.
+
+#### Create Simple & Complex Queries
+
+* The graduate creates simple Select-From-Where (SFW) and complex 3+ table join queries with Data Manipulation Language (DML) in MySQL environment.
