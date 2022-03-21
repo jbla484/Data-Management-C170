@@ -135,3 +135,7 @@ D.  Demonstrate professional communication in the content and presentation of yo
 #### Create Simple & Complex Queries
 
 * The graduate creates simple Select-From-Where (SFW) and complex 3+ table join queries with Data Manipulation Language (DML) in MySQL environment.
+
+## Evaluator Comments:
+
+"The submission includes a physical database model for Nora's Bagel Bin and a new database for the Jaunty Coffee Co. Appropriate cardinality for both the 2NF and 3NF tables was observed."
